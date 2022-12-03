@@ -1,3 +1,5 @@
+// This program is intended for the Arduino Ide
+
 #include <LiquidCrystal.h>  //the liquid crystal library helps with printing things into the display
 
 
