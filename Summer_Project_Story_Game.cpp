@@ -12,8 +12,8 @@ using namespace std;
 
 class Game {
 public: virtual void play(const string & playerName) = 0;
-    virtual~Game() =
-    default;
+    virtual~Game() = default;
+    
 };
 
 class RockPaperScissorsGame {
